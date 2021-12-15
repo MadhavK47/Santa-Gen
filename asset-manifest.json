@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Santa-Gen/static/css/main.05c7d400.chunk.css",
+    "main.js": "/Santa-Gen/static/js/main.81642b9d.chunk.js",
+    "main.js.map": "/Santa-Gen/static/js/main.81642b9d.chunk.js.map",
+    "runtime-main.js": "/Santa-Gen/static/js/runtime-main.c0ef38bc.js",
+    "runtime-main.js.map": "/Santa-Gen/static/js/runtime-main.c0ef38bc.js.map",
+    "static/js/2.c279be05.chunk.js": "/Santa-Gen/static/js/2.c279be05.chunk.js",
+    "static/js/2.c279be05.chunk.js.map": "/Santa-Gen/static/js/2.c279be05.chunk.js.map",
+    "static/js/3.ea77aa46.chunk.js": "/Santa-Gen/static/js/3.ea77aa46.chunk.js",
+    "static/js/3.ea77aa46.chunk.js.map": "/Santa-Gen/static/js/3.ea77aa46.chunk.js.map",
+    "index.html": "/Santa-Gen/index.html",
+    "static/css/main.05c7d400.chunk.css.map": "/Santa-Gen/static/css/main.05c7d400.chunk.css.map",
+    "static/js/2.c279be05.chunk.js.LICENSE.txt": "/Santa-Gen/static/js/2.c279be05.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Santa-Gen/static/media/logo.6ce24c58.svg",
+    "static/media/plus.f07c0b76.svg": "/Santa-Gen/static/media/plus.f07c0b76.svg",
+    "static/media/present.712f0c1d.svg": "/Santa-Gen/static/media/present.712f0c1d.svg",
+    "static/media/santa-hat.a7008033.svg": "/Santa-Gen/static/media/santa-hat.a7008033.svg",
+    "static/media/santa.85cb042e.svg": "/Santa-Gen/static/media/santa.85cb042e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c0ef38bc.js",
+    "static/js/2.c279be05.chunk.js",
+    "static/css/main.05c7d400.chunk.css",
+    "static/js/main.81642b9d.chunk.js"
+  ]
+}
